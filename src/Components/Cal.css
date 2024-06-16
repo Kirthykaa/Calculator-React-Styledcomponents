@@ -1,0 +1,9 @@
+* {
+    background-color: black;
+}
+
+p {
+    color: aliceblue;
+    text-emphasis: none;
+    text-align: center;
+}
